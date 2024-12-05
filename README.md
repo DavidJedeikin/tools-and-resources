@@ -3,6 +3,9 @@
 ## C++ 
 * [Boost reflection](https://github.com/boostorg/pfr)
 
+## Software Engineering 
+* [RedBlobGames](https://www.redblobgames.com/)
+
 ## Profiling 
 * [Palanteer](https://github.com/dfeneyrou/palanteer)
 
