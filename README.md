@@ -18,7 +18,7 @@
 * [StableBaselines3](https://stable-baselines3.readthedocs.io/en/master/)
 
 ## Courses
-* [OpenAi course](https://spinningup.openai.com/en/latest/)
+* [OpenAI course](https://spinningup.openai.com/en/latest/)
 * [Hugging Face course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 * [Deepmind Google Colab tutorial on learning legged locomotion](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/mjx/training_apg.ipynb#scrollTo=A5UYUZtkZS3j)
 
