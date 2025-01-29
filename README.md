@@ -8,6 +8,10 @@
 
 ## Profiling 
 * [Palanteer](https://github.com/dfeneyrou/palanteer)
+* [Nsight](https://developer.nvidia.com/nsight-systems)
+* [Valgrind](https://valgrind.org/)
+* [flame graph](https://www.brendangregg.com/flamegraphs.html)
+
 
 # ML  
 * [Practical deep learning for coders](https://course.fast.ai/)
