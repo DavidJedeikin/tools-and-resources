@@ -5,6 +5,7 @@
 
 ## Software Engineering 
 * [RedBlobGames](https://www.redblobgames.com/)
+* [Thread Sanitising](https://github.com/google/sanitizers)
 
 ## Profiling 
 * [Palanteer](https://github.com/dfeneyrou/palanteer)
